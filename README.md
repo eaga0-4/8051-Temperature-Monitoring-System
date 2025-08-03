@@ -1,0 +1,2 @@
+# 8051-Temperature-Monitoring-System
+An embedded system project using 8051 microcontroller to monitor ambient temperature via LM35 + ADC0804. Features include real-time temperature display on LCD, mode-based interaction (live temperature, raw ADC, max/min display), UART serial communication to PC, temperature history storage, visual + buzzer alerts, and multi-mode button controls. Ideal for learning ADC interfacing, UART, button debouncing, and temperature-based decision systems.
