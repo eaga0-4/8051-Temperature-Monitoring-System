@@ -1,14 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
 # 🌡️ 8051 Temperature Monitoring System
 
 This project is a complete embedded temperature monitoring system built using the 8051 microcontroller. It reads temperature using the LM35 sensor with ADC0804, displays information on an LCD, and communicates with a PC via UART. It also includes LED indicators, buzzer alerts, button-based mode selection, and stores historical data.
